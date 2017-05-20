@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedTester</string>
+    <string name="action_settings">Settings</string>
+    <string name="buyButton">BUY</string>
+    <string name="entry_image_description">This is an image of the item.</string>
+    <string name="default_pricetag">PRICETAG</string>
+    <string name="default_username">USERNAME</string>
+    <string name="default_description">DESCRIPTION long description but could definitely be longer still longer? yeah. Still LONGER DESCRIPTION</string>
+    <string name="save_button">Save.</string>
+</resources>
